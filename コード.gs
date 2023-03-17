@@ -21,5 +21,4 @@ function shturl() {
 
     //取得したシートURLのシート0番目でシートを取得
     const sheet = ss.getSheets()[0];
-
 }
