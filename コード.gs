@@ -14,7 +14,7 @@ function sitid() {
 }
 
 function shturl() {
-
+    
     //シートURLで取得して変数「ss」に格納
     const ss = SpreadsheetApp
         .openByUrl('https://docs.google.com/spreadsheets/d/1PWVHE2uFZBDkiIh0wmWJSq9F5aoB1I7wslUWxBtR2L8/edit#gid=0');
